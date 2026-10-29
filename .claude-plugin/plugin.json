@@ -1,0 +1,9 @@
+{
+  "name": "read-aloud",
+  "version": "0.1.0",
+  "description": "Claude の最新の回答を macOS の say で読み上げるパネル（再生、一時停止、停止、速度の変更、読んでいる単語の反転表示）",
+  "author": { "name": "kesuuyof" },
+  "repository": "https://github.com/kesuuyof/claude-code-read-aloud",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-read-aloud",
+  "description": "A Claude Code mod that reads the latest answer aloud with macOS say.",
+  "owner": { "name": "kesuuyof" },
+  "plugins": [
+    {
+      "name": "read-aloud",
+      "source": "./",
+      "description": "Claude の最新の回答を macOS の say で読み上げるパネル（再生、一時停止、停止、速度の変更、読んでいる単語の反転表示）"
+    }
+  ]
+}
